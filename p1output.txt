@@ -1,1 +1,7 @@
-
+gcc -g p1original.c
+ ./a.out
+enter num1:2
+enter den1:3
+enter num2:5
+enter den2:6
+the sum of 2/3+ 5/6 = 27/18 
